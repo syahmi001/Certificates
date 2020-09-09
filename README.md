@@ -1,2 +1,2 @@
 # Certificates
- Certificates for the recruitment company to see
+ Certificates for recruitment company to see.
