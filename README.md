@@ -3,26 +3,38 @@
  
  **Innovate Malaysia Design Competition 2020 Award and Participation certificate:**
  
+ **AWARD**
+ 
+ 
  
  ![Optional Text](../master/IMDC2020/Certificate_DreamCatcherDigitalBadgeAward.png)
  
- AWARD
+ 
+ 
+ **PARTICIPATION**
+ 
  
  
  ![Optional Text](../master/IMDC2020/Certificate_DreamCatcherDigitalBadgeparticipation.png)
  
- PARTICIPATION
+ 
  
  **Udemy certificate:**
+ 
+ **Python learn from scratch**
+ 
  
  
  ![Optional Text](../master/Udemy/Udemy_Java_LearnFromScratch_Certificate.jpg)
  
- Python learn from scratch
+ 
+ 
+  **Java from beginner to expert**
+ 
  
  
  ![Optional Text](../master/Udemy/Udemy_Python_GoFromBeginnerToExpert_Certificate.jpg)
  
- Java from beginner to expert
+
  
  
