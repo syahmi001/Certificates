@@ -4,12 +4,12 @@
  **Innovate Malaysia Design Competition 2020 Award and Participation certificate:**
  
  
- ![Optional Text](../master/IMDC2020/Certificate _ DreamCatcher Digital Badge Award.png)
+ ![Optional Text](../master/IMDC2020/Certificate_DreamCatcherDigitalBadgeAward.png)
  
  AWARD
  
  
- ![Optional Text](../master/IMDC2020/Certificate _ DreamCatcher Digital Badge participation.png)
+ ![Optional Text](../master/IMDC2020/Certificate_DreamCatcherDigitalBadgeparticipation.png)
  
  PARTICIPATION
  
